@@ -6,7 +6,7 @@ ejecutrar
 
 # Diferencia 
 
-fractal_2.py tiene zoom y usa memoria dinaica lo cual funciona como una semilla adicional fractal.py
+fractal_2.py tiene zoom y usa memoria dinámica lo cual funciona como una semilla adicional fractal.py
 
 
 # Resumen del Programa
